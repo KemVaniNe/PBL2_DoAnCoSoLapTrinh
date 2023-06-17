@@ -1,0 +1,6 @@
+NV001,Huynh Thi Hong Van,0329230521,Phu Mau-TP Hue-Thua Thien Hue
+NV002,Nguyen Dinh Kham Thuan,0934784782,Vinh Trung-Thanh Khe-Da Nang
+NV003,Nguyen Ngoc Phu,0775545294,Chinh Gian-Thanh Khe-Da Nang
+NV004,Phan Van Nghia,0913430663,Hoa Khanh Nam-Lien Chieu-Da Nang
+NV005,Dao Ngoc Anh,0867825415,Vinh Long-Vinh Loc-Thanh Hoa
+NV006,Cao Tien Thanh,0898187559,Son Tra-Da Nang
